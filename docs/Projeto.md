@@ -1,4 +1,4 @@
-# 📚 Documentação do Projeto: Gerenciador de Catálogo de Livros
+# Documentação do Projeto: Gerenciador de Catálogo de Livros
 
 ## 1. Descrição geral do projeto
 Aplicação para gerenciamento de um catálogo de livros desenvolvida em Python.  
