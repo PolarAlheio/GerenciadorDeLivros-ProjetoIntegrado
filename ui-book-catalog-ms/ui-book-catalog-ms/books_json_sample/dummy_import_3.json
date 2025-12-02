@@ -1,0 +1,4 @@
+{
+  "format": "json",
+  "content": "{\"catalog\": [{\"title\": \"Python Crash Course\", \"author\": \"Eric Matthes\", \"isbn\": \"7777777777777\", \"publisher\": \"No Starch Press\", \"pages\": 544}, {\"title\": \"Fluent Python\", \"author\": \"Luciano Ramalho\", \"isbn\": \"8888888888888\", \"publisher\": \"O'Reilly\", \"pages\": 792}, {\"title\": \"Clean Code\", \"author\": \"Robert C. Martin\", \"isbn\": \"9999999999999\", \"publisher\": \"Prentice Hall\", \"pages\": 464}]}"
+}

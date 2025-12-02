@@ -1,0 +1,4 @@
+{
+  "format": "xml",
+  "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><catalog><book><title>XML Imported</title><author>XML Author</author><isbn>1231231231231</isbn><publisher>XML Pub</publisher><pages>321</pages></book></catalog>"
+}

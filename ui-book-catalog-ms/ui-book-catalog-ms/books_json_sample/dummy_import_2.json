@@ -1,0 +1,5 @@
+
+{
+  "format": "json",
+  "content": "{\"catalog\": [{\"title\": \"Imported A\", \"author\": \"Anon\", \"isbn\": \"5555555555555\", \"publisher\": \"Global\", \"pages\": 100 },{\"title\": \"Imported B\", \"author\": \"Anon\", \"isbn\": \"6666666666666\", \"publisher\": \"Global\", \"pages\": 200 }]}"
+}

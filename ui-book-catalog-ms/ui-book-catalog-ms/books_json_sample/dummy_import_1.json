@@ -1,0 +1,4 @@
+{
+  "format": "json",
+  "content": "{\"catalog\": [{ \"title\": \"Imported Book 1\", \"author\": \"Importer\", \"isbn\": \"4444444444444\", \"publisher\": \"Import Press\", \"pages\": 123 }]}"
+}
